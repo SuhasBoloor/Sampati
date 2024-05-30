@@ -1,0 +1,58 @@
+{
+    "details":[
+        {
+            "property_details":"",
+            "price": "100000",
+            "location": "Mangalore",
+            "landmark": "Tandoor"
+
+        },
+        {
+            "property_details":"",
+            "price": "300000",
+            "location": "Bangalore",
+            "landmark": "Madhuloka"
+        
+        },
+        {
+            "property_details":"",
+            "price": "550000",
+            "location": "Chik Magaluru",
+            "landmark": "WineGate"
+        },
+        {
+            "property_details":"",
+            "price": "480000",
+            "location": "Chennai",
+            "landmark": "Santhosh"
+        
+        },
+        {
+            "property_details":"",
+            "price": "100000",
+            "location": "Mangalore",
+            "landmark": "Tandoor"
+
+        },
+        {
+            "property_details":"",
+            "price": "300000",
+            "location": "Bangalore",
+            "landmark": "Madhuloka"
+        
+        },
+        {
+            "property_details":"",
+            "price": "550000",
+            "location": "Chik Magaluru",
+            "landmark": "WineGate"
+        },
+        {
+            "property_details":"",
+            "price": "480000",
+            "location": "Chennai",
+            "landmark": "Santhosh"
+        
+        }
+    ]
+}
